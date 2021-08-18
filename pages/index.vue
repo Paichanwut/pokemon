@@ -1,5 +1,5 @@
 <template>
-  <Pokemonnav/>
+  <Pokemon/>
 </template>
 
 <script>
